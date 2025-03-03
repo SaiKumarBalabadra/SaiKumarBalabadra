@@ -9,7 +9,7 @@ As a **DevOps Engineer**, I obsess over streamlining workflows, eliminating toil
 ---
 
 ## 🛠️ Tech Stack  
-🐳 Docker | ⚓ Kubernetes | ⚙️ Jenkins | ☁️ AWS | � Terraform | 📊 Prometheus/Grafana | 🐍 Python | 🌿 Git | 🛡️ Trivy/OWASP  
+🐳 Docker | ⚓ Kubernetes | ⚙️ Jenkins | ☁️ AWS | � Terraform | 🐍 Python | 🌿 Git | 🛡️ Trivy/OWASP  
 
 ---
 
