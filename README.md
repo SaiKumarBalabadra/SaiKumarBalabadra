@@ -6,9 +6,9 @@ Glad to see you here!
 
 As a **DevOps Engineer**, I specialize in streamlining workflows, automating processes, and bridging the gap between development and operations. I thrive on building scalable, reliable, and secure systems that empower teams to deliver faster and more efficiently.  
 
-<img align="right" alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2U3czRrcmJsYjVvaXcxMzUzNTNnZ2wybDBmaWwzOXI2M3J5djlkbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="408" height="318" />
-
 ---
+
+<img align="right" alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2U3czRrcmJsYjVvaXcxMzUzNTNnZ2wybDBmaWwzOXI2M3J5djlkbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="408" height="258" />
 
 ## 🛠️ **Tech Stack**  
 - **CI/CD Tools**: Jenkins, Azure DevOps  
