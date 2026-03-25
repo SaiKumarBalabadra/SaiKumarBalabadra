@@ -7,8 +7,9 @@
 I am a DevOps Engineer with 4+ years of experience specializing in Cloud, Kubernetes, CI/CD, Infrastructure as Code, and Platform Engineering.  
 I focus on building scalable infrastructure, automating deployments, implementing GitOps, and improving system reliability and observability.
 
----
+<img align="right" alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2U3czRrcmJsYjVvaXcxMzUzNTNnZ2wybDBmaWwzOXI2M3J5djlkbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="408" height="258" />
 
+---
 ## 🛠️ Tech Stack
 
 ### ☁️ Cloud & Platform
@@ -85,17 +86,20 @@ I focus on building scalable infrastructure, automating deployments, implementin
 
 ## 🎯 Current Focus
 
-- Platform Engineering
-- Kubernetes Security
-- GitOps at Scale
-- Service Mesh (Istio)
-- Cost Optimization in Kubernetes
-- Internal Developer Platforms
-
+- Kubernetes Platform Architecture & Scalability
+- Internal Developer Platforms (IDP)
+- GitOps & Infrastructure as Code at Scale
+- Kubernetes Security Architecture & Governance
+- Observability & Reliability Engineering
+- Autoscaling & Cost Optimization Strategies
+- CI/CD Platform Architecture
+- Multi-Cluster & Multi-Environment Architecture
+- Disaster Recovery & High Availability Design
+- Platform Automation & Self-Service Infrastructure
 ---
 
 ## 📫 Connect With Me
-
+- 💬 **Ask me about**: DevOps, CI/CD, Kubernetes, Terraform, or anything automation-related!  
 - 📧 Email: iamsaikumar24@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/balabadrasaikumar/
 
